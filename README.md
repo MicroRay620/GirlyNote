@@ -18,6 +18,4 @@ These notes are more versatile and customizable.
 
 # Customization
 By having the `{}` after the `~INDICATOR`
-=======
-A type of markdown that I made for my personal notes
->>>>>>> bb85196ca29220ec47ffb947425460e73cf4b9b5
+
