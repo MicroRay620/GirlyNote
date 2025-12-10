@@ -1,5 +1,4 @@
 # GirlyNote
-<<<<<<< HEAD
 GirlyNote is a Markup Language made as an alternative to Markdown.
 These notes are more versatile and customizable.
 
